@@ -3,7 +3,7 @@ Me chamo Daniele Dias, sou estudante de Análise e Desenvolvimento de Sistemas e
 
 - 🌱 Estou no  4º período de ADS, pela UniDomBosco.
 - 📚  Faço curso de Desenvolvimento Web pela Rocketseat e pela HCode.
-- 💻 Atualmente estou aprendendo HTML, CSS, JavaScript e Node.js
+- 💻 Atualmente estou aprendendo HTML, CSS, JavaScript e Java
 - 🗣 Amo fazer amigos. Então se você quiser dizer oi, ficarei feliz em conhecê-lo mais! 😊
 
 <a target="_blank" href="https://www.linkedin.com/in/daniele-dias-da-silva-69b83b1b9/">
